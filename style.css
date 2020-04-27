@@ -1,18 +1,25 @@
 h1,
 h2,
 h3 {
-  color: cornflowerblue
+  color: #f5bb8d;
+  font-family: 'Girassol', cursive;
 }
 
 ul li {
-  color: #88881a
+  color: #d5c2b5;
+  font-family: 'Girassol', cursive;
+}
+
+.portrait-container{
+  width: 20em;
+  margin: auto;
 }
 
 .fancy {
-  font-weight: bold;
-  color: green;
+  color: #d5c2b5;
+  font-family: 'Girassol', cursive;
 }
 
 body{
-  background-color: #641a0d;
+  background-color: #1b0104;
 }
