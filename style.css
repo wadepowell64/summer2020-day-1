@@ -1,0 +1,18 @@
+h1,
+h2,
+h3 {
+  color: cornflowerblue
+}
+
+ul li {
+  color: #88881a
+}
+
+.fancy {
+  font-weight: bold;
+  color: green;
+}
+
+body{
+  background-color: #641a0d;
+}
